@@ -1,3 +1,6 @@
+## 安装配置
+nohup python -u githubDisclosureNew.py&
+放到后台运行即可
 
 ## 安装配置
 
