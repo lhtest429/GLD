@@ -1,0 +1,8 @@
+globalPattern =(\w+@\.baidu\.com)
+Mail_host =smtp.163.com
+Mail_user =username
+Mail_pass =password
+Mail_postfix =163.com
+maxpageFor_Compare =2
+maxpageFor_Email =2
+globalUA =User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.4456.99 Safari/537.36
